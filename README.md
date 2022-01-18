@@ -26,5 +26,4 @@
    	<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
    	<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
    	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-
-   	<img src="https://img.shields.io/badge/Wordpress-5.8.3-%2321759b style=for-the-badge" />
+   	<img src="https://img.shields.io/badge/Wordpress-5.8.3-%2321759b" />
