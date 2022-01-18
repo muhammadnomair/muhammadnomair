@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammadnomair
+- 👋 Hi, I’m Muhammad Nomair
 - I’m currently working on Full stack web development
 - Ask me about Full-stack web, blockchain or literally anything!
 - You can reach me with the following links:
