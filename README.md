@@ -16,6 +16,7 @@ of AI materials. It includes comprehensive lists of tools, frameworks, datasets,
 machine learning, natural language processing, computer vision, and more.
 
 Technologies Used: PHP, jQuery, MySQL, LLM Models
+
 Website Link: http://whattheai.tech/
 
 **2** **Angular Spring – Website**
@@ -23,28 +24,34 @@ Website Link: http://whattheai.tech/
 Description:  Crafted and implemented a mobile-friendly website for Angular spring, a bespoke product design firm providing extensive engineering designs, enterprise applications, automation, cybersecurity, and testing services, all while prioritizing premium user experiences and top-notch quality. Through our global alliances with suppliers and vendors, we've enriched our service offerings and positioned ourselves advantageously in the global market.
 
 Technologies Used:  React js, .Net, MySQL, Azure
-Link:  https://www.angularspring.com/
+
+Website Link:  https://www.angularspring.com/
 
 **3** **Alter NFT – Website**
 
 Description: For the emerging realm of NFTs (Non-Fungible Tokens), the digital landscape demands a platform that stands apart, blending functionality with a user-centric design. The Alter website was conceived with this vision in mind, positioning it as the pinnacle destination for NFT enthusiasts around the globe.
 
 Technologies Used: HTML, CSS, JavaScript
-Link:  https://alter.gallery/
+
+Website Link:  https://alter.gallery/
 
 **4** **Atmar – Website**
 
 Description: This project involved the development of a tailored Content Management System (CMS) and the redesign of the client’s corporate website. The goal was to provide Atmar.ae, a leading provider in financial services, with an intuitive, scalable CMS platform that enhances their online presence and streamlines content management processes.
 
 Technologies Used: PHP, WordPress, SEO, Custom Plugins
-Link: https://atmar.ae/
+
+Website Link: https://atmar.ae/
 
 
 **Skills & Technologies**
 
 • Languages: JavaScript, C#, SQL, Perl, HTML, CSS, XML
+
 • Frameworks/Libraries: React, Angular, .NET
+
 • Tools: Azure DevOps, Visual Studio, Sublime, WordPress
+
 • Databases: SQL Server, MySQL
 
 **Connect with Me**
