@@ -9,15 +9,13 @@ solutions. I thrive on solving complex problems and driving technological advanc
 
 ****Key Projects:****
 
-**1** **Whattheai.tech - Website**
+**1** **Mahver - Real Estate Website**
 
-Description: It is a comprehensive AI directory that provides quick access to a diverse set
-of AI materials. It includes comprehensive lists of tools, frameworks, datasets, and APIs for
-machine learning, natural language processing, computer vision, and more.
+Description: Designed and developed a comprehensive real estate platform featuring property listings for residential, commercial, and tower spaces. The platform offers advanced search filters, interactive maps, and virtual tours, allowing users to easily explore available properties. With detailed descriptions, pricing, and location insights, it provides a seamless experience for buyers, sellers, and renters alike. The platform also supports property management tools, ensuring efficient handling of all real estate transactions.
 
-Technologies Used: PHP, jQuery, MySQL, LLM Models
+Technologies Used: Next.js, Tailwind CSS, .NET, SQL, Stripe, JWT, RESTful APIs
 
-Website Link: http://whattheai.tech/
+Website Link: www.Mahver.com
 
 **2** **Angular Spring – Website**
 
@@ -35,13 +33,30 @@ Technologies Used: HTML, CSS, JavaScript
 
 Website Link:  https://alter.gallery/
 
-**4** **Atmar – Website**
+**4** **Diagnostics Tool for EV Charging Operations**
 
-Description: This project involved the development of a tailored Content Management System (CMS) and the redesign of the client’s corporate website. The goal was to provide Atmar.ae, a leading provider in financial services, with an intuitive, scalable CMS platform that enhances their online presence and streamlines content management processes.
+Description: Real-time Diagnostics Tool for EV Charging Operations is an AI-powered platform designed for the efficient management of electric vehicle (EV) charging stations. This solution provides operators with a comprehensive, real-time overview of key metrics to optimize the performance and reliability of their charging networks.
 
-Technologies Used: PHP, WordPress, SEO, Custom Plugins
+Key Features
 
-Website Link: https://atmar.ae/
+*Energy Consumption Monitoring:*
+Real-time data on energy usage for each charging session, helping operators track and manage power consumption efficiently.
+
+*Voltage and System Efficiency Tracking:*
+Monitors voltage fluctuations and overall system performance, ensuring charging stations operate at peak efficiency.
+
+*Fault Detection and Reporting:*
+AI-driven fault detection that identifies potential issues in real-time and generates reports to prevent station downtime.
+
+*Charging Session Insights:*
+Displays detailed information on each charging session, including duration, energy delivered, and station availability.
+
+*Temperature Monitoring:*
+Tracks the temperature of critical components to ensure safety and prevent overheating.
+
+This AI-powered dashboard empowers EV charging station operators to monitor, manage, and optimize their stations in real-time, ensuring maximum efficiency and reliability.
+
+Technologies Used: TensorFlow, MQTT, PCAP, LightningChart, Plotly, Python, JavaScript, SQL,OAuth2.0, JWT.
 
 
 **Skills & Technologies**
