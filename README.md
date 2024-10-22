@@ -1,5 +1,5 @@
 [![muhammadnomair's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadnomair&show_icons=true&theme=dark)](https://github.com/muhammadnomair/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnomair&theme=dark&layout=compact)](https://github.com/muhammadnomair/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnomair&theme=dark&layout=compact&langs_count=8)](https://github.com/muhammadnomair/github-readme-stats)
 
 
 Hi, My name is Muhammad Nomair Ahsan
