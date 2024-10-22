@@ -25,19 +25,20 @@ Technologies Used:  React js, .Net, MySQL, Azure
 
 Website Link:  https://www.angularspring.com/
 
-**3** **Alter NFT – Website**
+**3** **Raybot - AI-Powered Task-Oriented Chatbot**
 
-Description: For the emerging realm of NFTs (Non-Fungible Tokens), the digital landscape demands a platform that stands apart, blending functionality with a user-centric design. The Alter website was conceived with this vision in mind, positioning it as the pinnacle destination for NFT enthusiasts around the globe.
+Description: Designed CRM and task oriented chatbot engines using Retrieval-Augmented Generation (RAG), RASA, and NLP to enhance customer interactions. These bots leverage RAG for accurate information retrieval and RASA for intent recognition and dialogue management, improving CRM workflows and automating customer support tasks.
 
-Technologies Used: HTML, CSS, JavaScript
+Technologies Used: RAG, RASA, NLP, FLASK, Next.js
 
-Website Link:  https://alter.gallery/
+Website Link:  www.raythorne.com
 
 **4** **Diagnostics Tool for EV Charging Operations**
 
 Description: Real-time Diagnostics Tool for EV Charging Operations is an AI-powered platform designed for the efficient management of electric vehicle (EV) charging stations. This solution provides operators with a comprehensive, real-time overview of key metrics to optimize the performance and reliability of their charging networks.
 
-Key Features
+
+*Key Features*
 
 *Energy Consumption Monitoring:*
 Real-time data on energy usage for each charging session, helping operators track and manage power consumption efficiently.
@@ -57,6 +58,14 @@ Tracks the temperature of critical components to ensure safety and prevent overh
 This AI-powered dashboard empowers EV charging station operators to monitor, manage, and optimize their stations in real-time, ensuring maximum efficiency and reliability.
 
 Technologies Used: TensorFlow, MQTT, PCAP, LightningChart, Plotly, Python, JavaScript, SQL,OAuth2.0, JWT.
+
+**5** **Atmar**
+
+Description: Developed custom Content Management System (CMS) and the revamp of Atmar’s corporate website. I built a scalable platform to elevate their online presence and simplify content management. This project showcases my expertise in creating customized CMS solutions and optimizing SEO for competitive industries.
+
+Technologies USed: PHP, WordPress, SEO, Custom Plugins
+
+Website Link: www.atmar.ae
 
 
 **Skills & Technologies**
